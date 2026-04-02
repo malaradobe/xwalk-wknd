@@ -1,15 +1,9 @@
 {
   "mappings": [
     "/content/xwalk-wknd/:/",
-    "/content/xwalk-wknd/us/en:/us/en/",
-    "/content/xwalk-wknd/ca/en:/ca/en/",
-    "/content/xwalk-wknd/ca/fr:/ca/fr/",
-    "/content/xwalk-wknd/us/en/nav:/us/en/nav",
-    "/content/xwalk-wknd/us/en/footer:/us/en/footer", 
-    "/content/xwalk-wknd/ca/en/nav:/ca/en/nav",
-    "/content/xwalk-wknd/ca/en/footer:/ca/en/footer",
-    "/content/xwalk-wknd/ca/fr/nav:/ca/fr/nav",
-    "/content/xwalk-wknd/ca/fr/footer:/ca/fr/footer",
+    "/content/xwalk-wknd/us/en/:/us/en/",
+    "/content/xwalk-wknd/ca/en/:/ca/en/",
+    "/content/xwalk-wknd/ca/fr/:/ca/fr/",
     "/content/xwalk-wknd/configuration:/.helix/config.json",
     "/content/xwalk-wknd/metadata:/metadata.json"
   ],
@@ -17,12 +11,6 @@
     "/content/xwalk-wknd/us/en/",
     "/content/xwalk-wknd/ca/en/",
     "/content/xwalk-wknd/ca/fr/",
-    "/content/xwalk-wknd/us/en/nav",
-    "/content/xwalk-wknd/us/en/footer",
-    "/content/xwalk-wknd/ca/en/nav",
-    "/content/xwalk-wknd/ca/en/footer",
-    "/content/xwalk-wknd/ca/fr/nav",
-    "/content/xwalk-wknd/ca/fr/footer",
     "/content/xwalk-wknd/configuration",
     "/content/xwalk-wknd/metadata"
   ]
