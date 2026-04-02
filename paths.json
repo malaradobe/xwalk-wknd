@@ -4,6 +4,9 @@
     "/content/xwalk-wknd/us/en/:/us/en/",
     "/content/xwalk-wknd/ca/en/:/ca/en/",
     "/content/xwalk-wknd/ca/fr/:/ca/fr/",
+    "/content/xwalk-wknd/us/en/about-us:/us/en/about-us",
+    "/content/xwalk-wknd/ca/en/about-us:/ca/en/about-us",
+    "/content/xwalk-wknd/ca/fr/about-us:/ca/fr/about-us",
     "/content/xwalk-wknd/configuration:/.helix/config.json",
     "/content/xwalk-wknd/metadata:/metadata.json"
   ],
