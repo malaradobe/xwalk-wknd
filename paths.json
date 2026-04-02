@@ -8,8 +8,8 @@
     "/content/xwalk-wknd/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xwalk-wknd/us/en/",
-    "/content/xwalk-wknd/ca/en/",
-    "/content/xwalk-wknd/ca/fr/"
+    "/content/xwalk-wknd/",
+    "/content/xwalk-wknd/configuration",
+    "/content/xwalk-wknd/metadata"
   ]
 }
