@@ -1,16 +1,15 @@
 {
   "mappings": [
     "/content/xwalk-wknd/:/",
-    "/content/xwalk-wknd/us/en/:/us/en/",
-    "/content/xwalk-wknd/ca/en/:/ca/en/",
-    "/content/xwalk-wknd/ca/fr/:/ca/fr/",
+    "/content/xwalk-wknd/en/:/us/en/",
+    "/content/xwalk-wknd/en/:/ca/en/",
+    "/content/xwalk-wknd/fr/:/ca/fr/",
     "/content/xwalk-wknd/configuration:/.helix/config.json",
     "/content/xwalk-wknd/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xwalk-wknd/us/en/",
-    "/content/xwalk-wknd/ca/en/",
-    "/content/xwalk-wknd/ca/fr/",
+    "/content/xwalk-wknd/en/",
+    "/content/xwalk-wknd/fr/",
     "/content/xwalk-wknd/configuration",
     "/content/xwalk-wknd/metadata"
   ]
