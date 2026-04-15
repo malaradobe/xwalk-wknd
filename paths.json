@@ -2,6 +2,7 @@
   "mappings": [
     "/content/xwalk-wknd/en/:/",
     "/content/xwalk-wknd/en/:/us/en/",
+    "/content/xwalk-wknd/es/:/us/es/",
     "/content/xwalk-wknd/en/:/ca/en/",
     "/content/xwalk-wknd/fr/:/ca/fr/",
     "/content/xwalk-wknd/configuration:/.helix/config.json",
@@ -10,6 +11,7 @@
   "includes": [
     "/content/xwalk-wknd/en/",
     "/content/xwalk-wknd/fr/",
+    "/content/xwalk-wknd/es/",
     "/content/xwalk-wknd/configuration",
     "/content/xwalk-wknd/metadata"
   ]
